@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Renai Circulation「恋愛サーキュレーション」Kana Hanazawa",
+  "base_artist": "Anime Tiddies",
+  "createdAt": "2025-12-01T00:29:13.200280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "花澤香菜",
+      "has_synced": true,
+      "path": "select/01_Renai_Circulation_花澤香菜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Kana Hanazawa",
+      "has_synced": true,
+      "path": "select/02_Renai_Circulation_Kana_Hanazawa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/03_Renai_Circulation_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/04_Renai_Circulation_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "*namirin",
+      "has_synced": true,
+      "path": "select/05_Renai_Circulation_namirin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/06_Renai_Circulation_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/07_Renai_Circulation_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monogatari Series Ost Renai Circulation (Lofi)",
+      "artist": "Lj Adena",
+      "has_synced": false,
+      "path": "select/08_Monogatari_Series_Ost_Renai_Circulation_(Lofi)_Lj_Adena.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Hanazawa Kana",
+      "has_synced": true,
+      "path": "select/09_Renai_Circulation_Hanazawa_Kana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Hanazawa Kana",
+      "has_synced": true,
+      "path": "select/10_Renai_Circulation_Hanazawa_Kana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/11_Renai_Circulation_花澤香菜.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/12_Renai_Circulation_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/13_Renai_Circulation_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Kana Hanazawa",
+      "has_synced": true,
+      "path": "select/14_Renai_Circulation_Kana_Hanazawa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Renai Circulation",
+      "artist": "Kana Hanazawa",
+      "has_synced": true,
+      "path": "select/15_Renai_Circulation_Kana_Hanazawa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Renai Circulation (English Cover) [TV Size] [feat. L-Train & Y. Chang]",
+      "artist": "Lizz Robinett",
+      "has_synced": true,
+      "path": "select/16_Renai_Circulation_(English_Cover)_[TV_Size]_[feat._L-Train_&_Y._Chang]_Lizz_Robinett.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Renai Circulation (English Cover) [2012 TV Size]",
+      "artist": "Lizz Robinett/L-Train/Y. Chang",
+      "has_synced": true,
+      "path": "select/17_Renai_Circulation_(English_Cover)_[2012_TV_Size]_Lizz_Robinett_L-Train_Y._Chang.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Renai Circulation「恋愛サーキュレーション」Kana Hanazawa",
+      "artist": "Anime Tiddies",
+      "has_synced": false,
+      "path": "select/pl_Renai_Circulation「恋愛サーキュレーション」Kana_Hanazawa_Anime_Tiddies.txt"
+    }
+  ]
+}
